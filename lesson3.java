@@ -16,6 +16,8 @@ class Main {
 
     //For Loops 
     //do the same thing using a for loop
+    
+    //Make another for loop that prints out all the odd numbers between 0 and 20
 
     //CHALLENGE
     //What happens if you make a for loop inside a for loop??
